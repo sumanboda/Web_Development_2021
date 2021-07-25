@@ -35,3 +35,7 @@ Content:
 14) React Hooks
 15) Web Design
 16) Deployment with GitHub Pages, Heroku and MongoDB Atlas
+
+## Projects
+
+project 1: Using HTML and CSS  
